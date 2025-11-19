@@ -1,0 +1,199 @@
+SafeLink – Digital Safety Toolkit
+Hackathon: PowerHacks 2025
+Theme: Build Safe, Build Boldly
+Slide 1 — Cover Slide
+
+Title: SafeLink: Digital Safety Toolkit for Women & Girls
+Subtitle: Empowering safer digital spaces across Africa
+Visuals: Shield icon / smartphone illustration
+Footer: PowerHacks 2025 | Kahsay Kiross
+
+Slide 2 — The Problem
+
+Header: Women & Girls Face Digital Risks
+Bullet Points:
+
+Online harassment & threats
+
+Cyberstalking and bullying
+
+Non-consensual sharing of content
+
+Limited access to safety tools
+
+Lack of quick emergency response
+
+Visual: Icon of alert / cyber threat
+
+Slide 3 — Opportunity
+
+Header: Why SafeLink Matters
+Bullet Points:
+
+16 Days of Activism calls for action
+
+Technology can protect and empower
+
+High demand for accessible safety solutions
+
+Opportunity to prevent digital gender-based violence
+
+
+Visual: Globe with digital connections
+
+Slide 4 — Our Solution
+
+Header: SafeLink App
+Description: A Flutter-based mobile toolkit to help women and girls stay safe online and offline.
+Key Features (Icons for each):
+
+SOS Emergency Call
+
+Incident Reporting
+
+Safety Tips & Guidance
+
+Privacy-first, local storage
+
+Offline support
+
+Slide 5 — How It Works
+
+Visual Flow / Steps:
+
+1. Tap SOS → Emergency call initiated
+
+
+2. Report incident → Stored locally
+
+
+3. Access safety guides → Learn best practices
+
+
+4. Simple UI → Works even with low tech literacy
+
+Visuals: Flow diagram or numbered steps
+
+Slide 6 — Unique Value
+
+Header: What Makes SafeLink Stand Out
+Bullet Points:
+
+✅ One-tap emergency support
+
+✅ Privacy-first design (no tracking)
+
+✅ Offline-capable
+
+✅ Curated GBV protection guides
+
+✅ Simple & intuitive UI
+
+
+Visual: Comparison chart vs generic apps
+Slide 7 — Target Users
+
+Header: Who Benefits Most
+
+Women & girls across Africa
+
+Students & young professionals
+
+NGOs & community groups
+
+Digital safety educators
+
+
+Visual: Diverse user icons
+
+Slide 8 — Tech Stack
+
+Header: Built With Modern Tools
+
+Flutter (Dart)
+
+Shared Preferences (local storage)
+
+URL Launcher (SOS dialing)
+
+Material Design UI
+
+
+Visual: Tech logos
+
+Slide 9 — App Demo Screens
+
+Header: SafeLink in Action
+Screenshots:
+
+Home Screen (SOS + menu)
+
+Incident Report
+
+Safety Tips
+
+Saved Reports
+
+
+Tip: Highlight simplicity and readability
+Slide 10 — Social Impact
+
+Header: Changing Lives
+Bullet Points:
+
+Reduce online harassment
+
+Empower women to speak up
+
+Improve reporting rates
+
+Raise community awareness
+
+Support long-term advocacy
+
+
+Visual: Heart / community / empowerment icons
+
+Slide 11 — Future Roadmap
+
+Header: Next Steps
+
+AI safety chatbot
+
+Anonymous cloud-backed reporting
+
+Community alert system
+
+Multi-language support
+
+NGO & authority integration
+Visual: Timeline graphic
+Slide 12 — Meet the Team
+
+Header: Why Us?
+
+Strong software engineering + CNS + digital ID background
+
+Experience building secure public-sector solutions
+
+Passion for digital safety & social impact
+
+
+Visual: Profile photos or avatars
+
+Slide 13 — Call to Action
+
+Header: SafeLink: Build Safe, Build Boldly
+Message:
+“SafeLink is more than an app — it’s a commitment to safety, dignity, and empowerment for women & girls across Africa.”
+
+Visual: Empowerment / shield icon
+🎨 Design Tips
+
+Color Palette: Purple (#6A1B9A), White (#FFFFFF), Light Gray (#F3F3F3), Green (#4CAF50)
+
+Fonts: Bold headers (Montserrat / Poppins), Body (Roboto)
+
+Use icons for SOS, lock, shield, alert, report, community
+
+Keep each slide simple, minimal text, focus on visuals
